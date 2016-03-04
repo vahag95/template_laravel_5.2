@@ -1,0 +1,23 @@
+.top-header{
+	background: #3B3B3A;
+}
+.top-header li{
+	list-style: none;
+	color: #EDEDED;
+	float: left;
+	padding: 5px 10px ;	
+}
+.top-header li a:hover{
+	background: #3B3B4B;
+}
+.top-header li a{
+	color:white;
+	padding: 0 5px;
+	border-left: 1px solid white;
+}
+.main-search{	
+	
+}
+.main-header-container{
+	margin-bottom: 0;
+}
